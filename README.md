@@ -1,15 +1,15 @@
-#Loan Default Data Analysis
+# Loan Default Data Analysis
 
-##Project Objective
+## Project Objective
 
 This project focuses on analyzing loan data using SQL for data cleaning & transformation and Power BI for visualization.
 The goal is to extract insights about loan approvals, defaulters, and repayment patterns to support data-driven decision-making for financial institutions.
 
-##Dataset Used
+## Dataset Used
 
 "C:\Users\wwwat\Downloads\Loan+Dataset+Link.xlsx"
 
-🚀 Features
+## 🚀 Features
 
 ✅ Data Cleaning & Transformation: Used SQL to filter, join, and aggregate raw loan data.
 
@@ -18,7 +18,7 @@ The goal is to extract insights about loan approvals, defaulters, and repayment 
 ✅ Interactive Dashboard: Created a Power BI dashboard for easy exploration and trend analysis.
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 SQL (for queries, joins, aggregations, data cleaning)
 
@@ -27,7 +27,7 @@ Power BI (for interactive dashboard and visualization)
 Excel/CSV (as source dataset)
 
 
-📂 Project Workflow
+## 📂 Project Workflow
 
 Data Collection – Collected loan dataset in CSV format
 
@@ -38,7 +38,7 @@ Data Analysis – Wrote SQL queries to find patterns and key metrics
 Visualization – Imported cleaned data into Power BI and built dashboards
 
 
-🎯 Project Motivation
+## 🎯 Project Motivation
 
 Financial institutions need to track loan performance and minimize risks.
 This project helps in:
@@ -50,12 +50,13 @@ Monitoring loan repayment trends
 Supporting data-driven lending decisions
 
 
-#Dashboard Overview
+## Dashboard Overview
 
 <img width="1357" height="768" alt="Screenshot 2025-09-20 001204" src="https://github.com/user-attachments/assets/a21d8d9d-8085-4c36-bcd4-56f7cb3249dd" />
 
 
-🏁 Final Conclusion
+
+## 🏁 Final Conclusion
 
 This project successfully demonstrated how SQL and Power BI can be used together to analyze loan data and derive actionable insights.
 By cleaning and transforming the data in SQL and visualizing it in Power BI, we were able to:
