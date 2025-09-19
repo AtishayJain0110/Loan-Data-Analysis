@@ -1,10 +1,12 @@
 #Loan Default Data Analysis
 
 ##Project Objective
+
 This project focuses on analyzing loan data using SQL for data cleaning & transformation and Power BI for visualization.
 The goal is to extract insights about loan approvals, defaulters, and repayment patterns to support data-driven decision-making for financial institutions.
 
 ##Dataset Used
+
 "C:\Users\wwwat\Downloads\Loan+Dataset+Link.xlsx"
 
 🚀 Features
@@ -46,4 +48,25 @@ Identifying high-risk borrowers
 Monitoring loan repayment trends
 
 Supporting data-driven lending decisions
+
+
+#Dashboard Overview
+
+<img width="1357" height="768" alt="Screenshot 2025-09-20 001204" src="https://github.com/user-attachments/assets/a21d8d9d-8085-4c36-bcd4-56f7cb3249dd" />
+
+
+🏁 Final Conclusion
+
+This project successfully demonstrated how SQL and Power BI can be used together to analyze loan data and derive actionable insights.
+By cleaning and transforming the data in SQL and visualizing it in Power BI, we were able to:
+
+Identify loan approval and rejection trends
+
+Detect high-risk customers with higher default probabilities
+
+Analyze EMI patterns and repayment behavior over time
+
+Present the findings in an interactive dashboard for easy decision-making
+
+Overall, this project shows how data analytics can help financial institutions make smarter lending decisions, reduce risks, and improve overall loan portfolio performance.
 
